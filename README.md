@@ -3,197 +3,197 @@
 ### Basics:
 [System Design Cheatsheet · GitHub](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 </br>
-[System Design Primer]
+[System Design Primer](https://github.com/donnemartin/system-design-primer)
 </br>
-[How to Succeed in a System Design Interview]
+[How to Succeed in a System Design Interview]()
 </br>
-[Approach a System Design Interview]
+[Approach a System Design Interview]()
 </br>
-[System Design, Chapter 2: Sharding]
+[System Design, Chapter 2: Sharding]()
 </br>
-[System Design, Chapter 3: Load Balancing]
+[System Design, Chapter 3: Load Balancing]()
 </br>
-[System Design, Chapter 4: Caching]
+[System Design, Chapter 4: Caching]()
 </br>
-[System Design, Chapter 5: Indexes in Databases]
+[System Design, Chapter 5: Indexes in Databases]()
 </br>
-[System Design, Chapter 6: Proxies]
+[System Design, Chapter 6: Proxies]()
 </br>
-[System Design, Chapter 7: Queues]
+[System Design, Chapter 7: Queues]()
 </br>
 
 ### Milestone Research Papers:
-[The Google File System]
+[The Google File System]()
 </br>
-[Dynamo: Amazon's Highly Available Key-value Store]
+[Dynamo: Amazon's Highly Available Key-value Store]()
 </br>
-[MapReduce: Simplified Data Processing on Large Clusters]
+[MapReduce: Simplified Data Processing on Large Clusters]()
 </br>
-[TAO: Facebook's Distributed Data Store for the Social Graph]
+[TAO: Facebook's Distributed Data Store for the Social Graph]()
 </br>
-[Kafka: a Distributed Messaging System for Log Processing]
+[Kafka: a Distributed Messaging System for Log Processing]()
 </br>
-[Bigtable: A Distributed Storage System for Structured Data]
+[Bigtable: A Distributed Storage System for Structured Data]()
 </br>
-[Spark: Cluster Computing with Working Sets]
+[Spark: Cluster Computing with Working Sets]()
 
 
 ### Popular Datastores:
-[Choose the right data store - Azure Application Architecture Guide]
+[Choose the right data store - Azure Application Architecture Guide]()
 </br>
-[Redis vs Aerospike]
+[Redis vs Aerospike]()
 </br>
-[Elasticsearch vs MongoDB]
+[Elasticsearch vs MongoDB]()
 </br>
-[MongoDB vs CouchDB]
+[MongoDB vs CouchDB]()
 
 #### Cassandra
-[Cassandra writes in depth. Surprises you can expect from a… | by Andrzej Ludwikowski]
+[Cassandra writes in depth. Surprises you can expect from a… | by Andrzej Ludwikowski]()
 </br>
-[Cassandra Data Modelling]
+[Cassandra Data Modelling]()
 </br>
-[Why Cassandra writes faster than Traditional RDBMS?]
+[Why Cassandra writes faster than Traditional RDBMS?]()
 </br>
-[When to use Cassandra and when to steer clear]
+[When to use Cassandra and when to steer clear]()
 </br>
-[Log Structured Merge Trees]
+[Log Structured Merge Trees]()
 </br>
-[How is data read? | Apache Cassandra 3.0]
+[How is data read? | Apache Cassandra 3.0]()
 
 
 #### Redis
-[Redis Persistence – Redis]
+[Redis Persistence – Redis]()
 </br>
-[Goodbye Cache: Redis as a Primary Database]
+[Goodbye Cache: Redis as a Primary Database]()
 </br>
-[Transactions in Redis]
+[Transactions in Redis]()
 </br>
-[Partitioning: how to split data among multiple Redis instances. – Redis]
+[Partitioning: how to split data among multiple Redis instances. – Redis]()
 </br>
-[Horizontal scaling in/out techniques for redis cluster]
+[Horizontal scaling in/out techniques for redis cluster]()
 </br>
-[Redis Cluster]
+[Redis Cluster]()
 </br>
-[Key Problems with Redis Persistence]
+[Key Problems with Redis Persistence]()
 
 #### Elasticsearch
-[Elasticsearch from the Top Down]
+[Elasticsearch from the Top Down]()
 </br>
-[Uses of Elasticsearch, and Things to Learn]
+[Uses of Elasticsearch, and Things to Learn]()
 </br>
-[Elasticsearch from the Bottom Up, Part 1]
+[Elasticsearch from the Bottom Up, Part 1]()
 </br>
 
 #### PostgreSql
-[Comparing Data Stores for PostgreSQL - MVCC vs InnoDB]
+[Comparing Data Stores for PostgreSQL - MVCC vs InnoDB]()
 </br>
-[Postgres MVCC]
+[Postgres MVCC]()
 </br>
-[PostgreSQL 10: Partitions of partitions!]
+[PostgreSQL 10: Partitions of partitions!]()
 
 #### Mongo
-[How To Decide If MongoDB Is Right For You]
+[How To Decide If MongoDB Is Right For You]()
 
 
 ### Interesting Blogs:
-[All Company Blogs !!]
+[All Company Blogs !!]()
 </br>
-[Building Reliable Reprocessing and Dead Letter Queues with Kafka]
+[Building Reliable Reprocessing and Dead Letter Queues with Kafka]()
 </br>
-[A Practical Introduction to the Internals of Kafka Storage]
+[A Practical Introduction to the Internals of Kafka Storage]()
 </br>
-[How To Design A Scalable Rate Limiting Algorithm]
+[How To Design A Scalable Rate Limiting Algorithm]()
 </br>
-[Data Compression for Large-Scale Streaming Experimentation | by Netflix Technology Blog]
+[Data Compression for Large-Scale Streaming Experimentation | by Netflix Technology Blog]()
 </br>
-[WhatsApp-Engineering Inside-1. Real Time messaging are now an…]
+[WhatsApp-Engineering Inside-1. Real Time messaging are now an…]()
 </br>
-[WhatsApp-Engineering Inside-2. In “WhatsApp-Engineering Inside-1” we…]
+[WhatsApp-Engineering Inside-2. In “WhatsApp-Engineering Inside-1” we…]()
 </br>
-[NETFLIX system design. System Design]
+[NETFLIX system design. System Design]()
 </br>
-[A Design Analysis of Cloud-based Microservices Architecture at Netflix]
+[A Design Analysis of Cloud-based Microservices Architecture at Netflix]()
 </br>
-[Microservice Architecture pattern]
+[Microservice Architecture pattern]()
 </br>
-[Resiliency: Cache Me If You Can]
+[Resiliency: Cache Me If You Can]()
 </br>
-[Microservices Design Patterns]
+[Microservices Design Patterns]()
 </br>
-[Kafka Message Delivery Semantics]
+[Kafka Message Delivery Semantics]()
 </br>
-[Replication In Depth - Kafka]
+[Replication In Depth - Kafka]()
 </br>
-[Design Decisions for Scaling Your High Traffic Feeds]
+[Design Decisions for Scaling Your High Traffic Feeds]()
 </br>
-[The Architecture Twitter Uses to Deal with 150M Active Users, 300K QPS, a 22 MB/S Firehose, and Send Tweets in Under 5 Seconds]
+[The Architecture Twitter Uses to Deal with 150M Active Users, 300K QPS, a 22 MB/S Firehose, and Send Tweets in Under 5 Seconds]()
 </br>
-[Instagram Saves Switching to Cassandra from Redis]
+[Instagram Saves Switching to Cassandra from Redis]()
 </br>
-[Jepsen Blog]
+[Jepsen Blog]()
 </br>
-[Aerospike Developer Blog – Medium]
+[Aerospike Developer Blog – Medium]()
 </br>
-[Patterns for distributed transactions within a microservices architecture]
+[Patterns for distributed transactions within a microservices architecture]()
 </br>
-[A Guide to Atomikos]
+[A Guide to Atomikos]()
 </br>
-[How to do distributed locking]
+[How to do distributed locking]()
 </br>
-[Taming Garbage Collection]
+[Taming Garbage Collection]()
 
 
 ### Real World Videos:
-[Jeff Dean's talk at Stanford]
+[Jeff Dean's talk at Stanford]()
 </br>
-[Building Billion user Load Balancer at Facebook]
+[Building Billion user Load Balancer at Facebook]()
 </br>
-[Netflix Guide to Microservices]
+[Netflix Guide to Microservices]()
 </br>
-[Amazon DynamoDB deep dive]
+[Amazon DynamoDB deep dive]()
 </br>
-[Twitter: Timelines at Scale]
+[Twitter: Timelines at Scale]()
 
 ### Advanced Techniques:
-[Bloom Filter]
+[Bloom Filter]()
 </br>
-[Cache Stampede]
+[Cache Stampede]()
 </br>
-[Request Coalescing]
+[Request Coalescing]()
 </br>
-[Three Tier Caching]
+[Three Tier Caching]()
 </br>
-[Consistent Hashing]
+[Consistent Hashing]()
 
 
 ### Actual Questions:
 
 #### Easy
-[Design Chess]
+[Design Chess]()
 </br>
-[Design Tic-Tac-Toe]
+[Design Tic-Tac-Toe]()
 </br>
-[Design Elevator System]
+[Design Elevator System]()
 
 #### Medium
-[Design Uber]
+[Design Uber]()
 </br>
-[Design Instagram]
+[Design Instagram]()
 </br>
-[Design Facebook Messenger]
+[Design Facebook Messenger]()
 </br>
-[Design URL Shortener]
+[Design URL Shortener]()
 </br>
-[Design Dropbox / Google Drive]
+[Design Dropbox / Google Drive]()
 </br>
-[Design News Feed System / Quora]
+[Design News Feed System / Quora]()
 </br>
-[Design Price Surging Service]
+[Design Price Surging Service]()
 </br>
-[Design AirBnb]
+[Design AirBnb]()
 
 #### Hard
-[Design YouTube / Netflix]
+[Design YouTube / Netflix]()
 </br>
-[Design Web Crawler]
+[Design Web Crawler]()
 
