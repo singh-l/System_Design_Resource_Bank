@@ -22,7 +22,7 @@ System Design, Chapter 6: Proxies
 System Design, Chapter 7: Queues
 </br>
 
-Milestone Research Papers:
+### Milestone Research Papers:
 The Google File System
 </br>
 Dynamo: Amazon's Highly Available Key-value Store
@@ -38,7 +38,7 @@ Bigtable: A Distributed Storage System for Structured Data
 Spark: Cluster Computing with Working Sets
 
 
-Popular Datastores:
+### Popular Datastores:
 Choose the right data store - Azure Application Architecture Guide
 </br>
 Redis vs Aerospike
@@ -47,7 +47,7 @@ Elasticsearch vs MongoDB
 </br>
 MongoDB vs CouchDB
 
-Cassandra
+#### Cassandra
 Cassandra writes in depth. Surprises you can expect from a… | by Andrzej Ludwikowski
 </br>
 Cassandra Data Modelling
@@ -61,7 +61,7 @@ Log Structured Merge Trees
 How is data read? | Apache Cassandra 3.0
 
 
-Redis
+#### Redis
 Redis Persistence – Redis
 </br>
 Goodbye Cache: Redis as a Primary Database
@@ -76,7 +76,7 @@ Redis Cluster
 </br>
 Key Problems with Redis Persistence
 
-Elasticsearch
+#### Elasticsearch
 Elasticsearch from the Top Down
 </br>
 Uses of Elasticsearch, and Things to Learn
@@ -84,18 +84,18 @@ Uses of Elasticsearch, and Things to Learn
 Elasticsearch from the Bottom Up, Part 1
 </br>
 
-PostgreSql
+#### PostgreSql
 Comparing Data Stores for PostgreSQL - MVCC vs InnoDB
 </br>
 Postgres MVCC
 </br>
 PostgreSQL 10: Partitions of partitions!
 
-Mongo
+#### Mongo
 How To Decide If MongoDB Is Right For You
 
 
-Interesting Blogs:
+### Interesting Blogs:
 All Company Blogs !!
 </br>
 Building Reliable Reprocessing and Dead Letter Queues with Kafka
@@ -143,7 +143,7 @@ How to do distributed locking
 Taming Garbage Collection
 
 
-Real World Videos:
+### Real World Videos:
 Jeff Dean's talk at Stanford
 </br>
 Building Billion user Load Balancer at Facebook
@@ -154,7 +154,7 @@ Amazon DynamoDB deep dive
 </br>
 Twitter: Timelines at Scale
 
-Advanced Techniques:
+### Advanced Techniques:
 Bloom Filter
 </br>
 Cache Stampede
@@ -166,16 +166,16 @@ Three Tier Caching
 Consistent Hashing
 
 
-Actual Questions:
+### Actual Questions:
 
-Easy
+#### Easy
 Design Chess
 </br>
 Design Tic-Tac-Toe
 </br>
 Design Elevator System
 
-Medium
+#### Medium
 Design Uber
 </br>
 Design Instagram
@@ -192,7 +192,7 @@ Design Price Surging Service
 </br>
 Design AirBnb
 
-Hard
+#### Hard
 Design YouTube / Netflix
 </br>
 Design Web Crawler
