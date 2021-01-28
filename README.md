@@ -5,21 +5,21 @@
 </br>
 [System Design Primer](https://github.com/donnemartin/system-design-primer)
 </br>
-[How to Succeed in a System Design Interview]()
+[How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26)
 </br>
-[Approach a System Design Interview]()
+[Approach a System Design Interview](https://medium.com/system-designing-interviews/approach-a-system-design-interview-f3594e243730)
 </br>
-[System Design, Chapter 2: Sharding]()
+[System Design, Chapter 2: Sharding](https://medium.com/system-designing-interviews/system-design-chapter-2-sharding-484960c18f6)
 </br>
-[System Design, Chapter 3: Load Balancing]()
+[System Design, Chapter 3: Load Balancing](https://medium.com/system-designing-interviews/system-design-chapter-3-load-balancing-e1c89148e37)
 </br>
-[System Design, Chapter 4: Caching]()
+[System Design, Chapter 4: Caching](https://medium.com/system-designing-interviews/system-design-chapter-4-caching-b59a4cf83f10)
 </br>
-[System Design, Chapter 5: Indexes in Databases]()
+[System Design, Chapter 5: Indexes in Databases](https://medium.com/@nishantnitb/system-design-chapter-5-indexes-in-databases-beb90295dbcf)
 </br>
-[System Design, Chapter 6: Proxies]()
+[System Design, Chapter 6: Proxies](https://medium.com/system-designing-interviews/system-design-chapter-6-proxies-f77be8858023)
 </br>
-[System Design, Chapter 7: Queues]()
+[System Design, Chapter 7: Queues](https://medium.com/system-designing-interviews/system-design-chapter-7-queues-5f3f9bed81)
 </br>
 
 ### Milestone Research Papers:
