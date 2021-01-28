@@ -77,123 +77,123 @@
 [Key Problems with Redis Persistence](http://oldblog.antirez.com/post/a-few-key-problems-in-redis-persistence.html#:~:text=The%20problem%20is%20that%20we,memory%20at%20a%20given%20time.)
 
 #### Elasticsearch
-[Elasticsearch from the Top Down]()
+[Elasticsearch from the Top Down](https://www.elastic.co/blog/found-elasticsearch-top-down)
 </br>
-[Uses of Elasticsearch, and Things to Learn]()
+[Uses of Elasticsearch, and Things to Learn](https://www.elastic.co/blog/found-uses-of-elasticsearch)
 </br>
-[Elasticsearch from the Bottom Up, Part 1]()
+[Elasticsearch from the Bottom Up, Part 1](https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up)
 </br>
 
 #### PostgreSql
-[Comparing Data Stores for PostgreSQL - MVCC vs InnoDB]()
+[Comparing Data Stores for PostgreSQL - MVCC vs InnoDB](https://severalnines.com/database-blog/comparing-data-stores-postgresql-mvcc-vs-innodb)
 </br>
-[Postgres MVCC]()
+[Postgres MVCC](https://malisper.me/postgres-mvcc/)
 </br>
-[PostgreSQL 10: Partitions of partitions!]()
+[PostgreSQL 10: Partitions of partitions!](https://joaodlf.com/postgresql-10-partitions-of-partitions.html)
 
 #### Mongo
-[How To Decide If MongoDB Is Right For You]()
+[How To Decide If MongoDB Is Right For You](https://medium.com/better-programming/mongodb-insights-20e36c8f2fcd)
 
 
 ### Interesting Blogs:
-[All Company Blogs !!]()
+[All Company Blogs !!](https://github.com/kilimchoi/engineering-blogs)
 </br>
-[Building Reliable Reprocessing and Dead Letter Queues with Kafka]()
+[Building Reliable Reprocessing and Dead Letter Queues with Kafka](https://eng.uber.com/reliable-reprocessing/)
 </br>
-[A Practical Introduction to the Internals of Kafka Storage]()
+[A Practical Introduction to the Internals of Kafka Storage](https://medium.com/@durgaswaroop/a-practical-introduction-to-kafka-storage-internals-d5b544f6925f)
 </br>
-[How To Design A Scalable Rate Limiting Algorithm]()
+[How To Design A Scalable Rate Limiting Algorithm](https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/)
 </br>
-[Data Compression for Large-Scale Streaming Experimentation | by Netflix Technology Blog]()
+[Data Compression for Large-Scale Streaming Experimentation | by Netflix Technology Blog](https://netflixtechblog.com/data-compression-for-large-scale-streaming-experimentation-c20bfab8b9ce)
 </br>
-[WhatsApp-Engineering Inside-1. Real Time messaging are now an…]()
+[WhatsApp-Engineering Inside-1. Real Time messaging are now an…](https://medium.com/codingurukul/whatsapp-engineering-inside-1-1ef4845ff784)
 </br>
-[WhatsApp-Engineering Inside-2. In “WhatsApp-Engineering Inside-1” we…]()
+[WhatsApp-Engineering Inside-2. In “WhatsApp-Engineering Inside-1” we…](https://medium.com/codingurukul/whatsapp-engineering-inside-2-bdd1ec354748)
 </br>
-[NETFLIX system design. System Design]()
+[NETFLIX system design. System Design](https://medium.com/@narengowda/netflix-system-design-dbec30fede8d)
 </br>
-[A Design Analysis of Cloud-based Microservices Architecture at Netflix]()
+[A Design Analysis of Cloud-based Microservices Architecture at Netflix](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
 </br>
-[Microservice Architecture pattern]()
+[Microservice Architecture pattern](https://microservices.io/patterns/microservices.html)
 </br>
-[Resiliency: Cache Me If You Can]()
+[Resiliency: Cache Me If You Can](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-4-85afa66d6341#:~:text=Request%20coalescing&text=These%20situations%20often%20occur%20during,request%20to%20the%20downstream%20storage.)
 </br>
-[Microservices Design Patterns]()
+[Microservices Design Patterns](https://vslive.com/Blogs/News-and-Tips/2018/02/Go-Fast-by-Going-Micro-Microservices-Design-Patterns-You-Should-Know.aspx#:~:text=Microservices%20design%20patterns%20are%20software,individual%20microservice%20independently%2C%20if%20desired.)
 </br>
-[Kafka Message Delivery Semantics]()
+[Kafka Message Delivery Semantics](https://kafka.apache.org/documentation/#semantics)
 </br>
-[Replication In Depth - Kafka]()
+[Replication In Depth - Kafka](https://aphyr.com/posts/293-jepsen-kafka)
 </br>
-[Design Decisions for Scaling Your High Traffic Feeds]()
+[Design Decisions for Scaling Your High Traffic Feeds](http://highscalability.com/blog/2013/10/28/design-decisions-for-scaling-your-high-traffic-feeds.html)
 </br>
-[The Architecture Twitter Uses to Deal with 150M Active Users, 300K QPS, a 22 MB/S Firehose, and Send Tweets in Under 5 Seconds]()
+[The Architecture Twitter Uses to Deal with 150M Active Users, 300K QPS, a 22 MB/S Firehose, and Send Tweets in Under 5 Seconds](http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html)
 </br>
-[Instagram Saves Switching to Cassandra from Redis]()
+[Instagram Saves Switching to Cassandra from Redis](https://www.datastax.com/blog/2014/10/facebooks-instagram-making-switch-cassandra-redis-75-insta-savings)
 </br>
-[Jepsen Blog]()
+[Jepsen Blog](https://aphyr.com/posts)
 </br>
-[Aerospike Developer Blog – Medium]()
+[Aerospike Developer Blog – Medium](https://medium.com/aerospike-developer-blog)
 </br>
-[Patterns for distributed transactions within a microservices architecture]()
+[Patterns for distributed transactions within a microservices architecture](https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/)
 </br>
-[A Guide to Atomikos]()
+[A Guide to Atomikos](https://www.baeldung.com/java-atomikos)
 </br>
-[How to do distributed locking]()
+[How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 </br>
-[Taming Garbage Collection]()
+[Taming Garbage Collection](https://product.hubspot.com/blog/g1gc-fundamentals-lessons-from-taming-garbage-collection#HumongousObjects)
 
 
 ### Real World Videos:
-[Jeff Dean's talk at Stanford]()
+[Jeff Dean's talk at Stanford](https://www.youtube.com/watch?v=modXC5IWTJI)
 </br>
-[Building Billion user Load Balancer at Facebook]()
+[Building Billion user Load Balancer at Facebook](https://www.youtube.com/watch?v=bxhYNfFeVF4)
 </br>
-[Netflix Guide to Microservices]()
+[Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 </br>
-[Amazon DynamoDB deep dive]()
+[Amazon DynamoDB deep dive](https://www.youtube.com/watch?v=HaEPXoXVf2k)
 </br>
-[Twitter: Timelines at Scale]()
+[Twitter: Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability/)
 
 ### Advanced Techniques:
-[Bloom Filter]()
+[Bloom Filter](https://medium.com/system-design-blog/bloom-filter-a-probabilistic-data-structure-12e4e5cf0638#:~:text=Bloom%20filter%20is%20a%20probabilistic,of%20applications%20in%20software%20engineering.&text=It%20allows%20for%20membership%20lookups%20in%20constant%20space%20%26%20time.)
 </br>
-[Cache Stampede]()
+[Cache Stampede](https://medium.com/@vaibhav0109/cache-stampede-problem-5eba782a1a4f)
 </br>
-[Request Coalescing]()
+[Request Coalescing](https://wikitech.wikimedia.org/wiki/Varnish#:~:text=In%20case%20a%20request%20from,object%20from%20an%20origin%20server.&text=Once%20the%20response%20is%20fetched,feature%20is%20called%20request%20coalescing.)
 </br>
-[Three Tier Caching]()
+[Three Tier Caching](https://blogs.oracle.com/oswald/cache,-cache,-cache-part-2:-architectures)
 </br>
-[Consistent Hashing]()
+[Consistent Hashing](https://medium.com/system-design-blog/consistent-hashing-b9134c8a9062)
 
 
 ### Actual Questions:
 
 #### Easy
-[Design Chess]()
+[Design Chess](https://medium.com/system-designing-interviews/design-a-chess-game-dddd7ba11bc0)
 </br>
-[Design Tic-Tac-Toe]()
+[Design Tic-Tac-Toe](https://medium.com/system-designing-interviews/design-tic-tac-toe-game-1b912bba64cf)
 </br>
-[Design Elevator System]()
+[Design Elevator System](https://medium.com/system-designing-interviews/design-a-elevator-system-fc5832ca0b8b)
 
 #### Medium
-[Design Uber]()
+[Design Uber](https://medium.com/@narengowda/uber-system-design-8b2bc95e2cfe)
 </br>
-[Design Instagram]()
+[Design Instagram](https://medium.com/@dingdingsherrywang/system-design-instagram-4658eeb0423a)
 </br>
-[Design Facebook Messenger]()
+[Design Facebook Messenger](https://medium.com/@eileen.code4fun/design-facebook-messenger-438d76639985)
 </br>
-[Design URL Shortener]()
+[Design URL Shortener](https://medium.com/@narengowda/url-shortener-system-design-3db520939a1c)
 </br>
-[Design Dropbox / Google Drive]()
+[Design Dropbox / Google Drive](https://medium.com/@narengowda/system-design-dropbox-or-google-drive-8fd5da0ce55b)
 </br>
-[Design News Feed System / Quora]()
+[Design News Feed System / Quora](https://medium.com/@bansal_ankur/design-a-news-feed-system-6bf42e9f03fb)
 </br>
-[Design Price Surging Service]()
+[Design Price Surging Service](https://medium.com/software-system-design/price-surge-during-online-hotel-booking-ff060c33b2b6)
 </br>
-[Design AirBnb]()
+[Design AirBnb](https://medium.com/@nrkapri/system-design-interview-question-design-airbnb-11ac00a1d9b0)
 
 #### Hard
-[Design YouTube / Netflix]()
+[Design YouTube / Netflix](https://medium.com/@eileen.code4fun/system-design-interview-mini-youtube-5cae5eedceae)
 </br>
-[Design Web Crawler]()
+[Design Web Crawler](https://medium.com/@morefree7/design-a-distributed-web-crawler-f67a8ebb8336)
 
