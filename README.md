@@ -23,58 +23,58 @@
 </br>
 
 ### Milestone Research Papers:
-[The Google File System]()
+[The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 </br>
-[Dynamo: Amazon's Highly Available Key-value Store]()
+[Dynamo: Amazon's Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 </br>
-[MapReduce: Simplified Data Processing on Large Clusters]()
+[MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 </br>
-[TAO: Facebook's Distributed Data Store for the Social Graph]()
+[TAO: Facebook's Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
 </br>
-[Kafka: a Distributed Messaging System for Log Processing]()
+[Kafka: a Distributed Messaging System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)
 </br>
-[Bigtable: A Distributed Storage System for Structured Data]()
+[Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 </br>
-[Spark: Cluster Computing with Working Sets]()
+[Spark: Cluster Computing with Working Sets](https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Zaharia.pdf)
 
 
 ### Popular Datastores:
-[Choose the right data store - Azure Application Architecture Guide]()
+[Choose the right data store - Azure Application Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview)
 </br>
-[Redis vs Aerospike]()
+[Redis vs Aerospike](https://lynnlangit.com/2015/01/28/lessons-learned-benchmarking-nosql-on-the-aws-cloud-aerospikedb-and-redis/)
 </br>
-[Elasticsearch vs MongoDB]()
+[Elasticsearch vs MongoDB](https://medium.com/@ranjeetvimal/elasticsearch-vs-mongodb-631f410cd317#:~:text=MongoDB%20is%20a%20general%20purpose,search%20engine%20backed%20by%20Lucene.&text=In%20practice%2C%20ElasticSearch%20is%20often,queries%2C%20based%20on%20data%20content.)
 </br>
-[MongoDB vs CouchDB]()
+[MongoDB vs CouchDB](https://blog.scottlogic.com/2014/08/04/mongodb-vs-couchdb.html#:~:text=Both%20scale%20across%20multiple%20nodes,defined%20as%20a%20replica%20set.&text=CouchDB%20uses%20a%20replication%20model%20called%20Eventual%20Consistency.)
 
 #### Cassandra
-[Cassandra writes in depth. Surprises you can expect from a… | by Andrzej Ludwikowski]()
+[Cassandra writes in depth. Surprises you can expect from a… | by Andrzej Ludwikowski](https://blog.softwaremill.com/cassandra-writes-in-depth-6ea8d7581eb)
 </br>
-[Cassandra Data Modelling]()
+[Cassandra Data Modelling](https://cassandra.apache.org/doc/latest/data_modeling/data_modeling_logical.html)
 </br>
-[Why Cassandra writes faster than Traditional RDBMS?]()
+[Why Cassandra writes faster than Traditional RDBMS?](https://www.linkedin.com/pulse/why-cassandra-writes-faster-than-traditional-rdbms-vishal-kharjul/)
 </br>
-[When to use Cassandra and when to steer clear]()
+[When to use Cassandra and when to steer clear](https://towardsdatascience.com/when-to-use-cassandra-and-when-to-steer-clear-72b7f2cede76)
 </br>
-[Log Structured Merge Trees]()
+[Log Structured Merge Trees](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/)
 </br>
-[How is data read? | Apache Cassandra 3.0]()
+[How is data read? | Apache Cassandra 3.0](https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/dml/dmlAboutReads.html)
 
 
 #### Redis
-[Redis Persistence – Redis]()
+[Redis Persistence – Redis](https://redis.io/topics/persistence)
 </br>
-[Goodbye Cache: Redis as a Primary Database]()
+[Goodbye Cache: Redis as a Primary Database](https://redislabs.com/blog/goodbye-cache-redis-as-a-primary-database/)
 </br>
-[Transactions in Redis]()
+[Transactions in Redis](https://redis.io/topics/transactions)
 </br>
-[Partitioning: how to split data among multiple Redis instances. – Redis]()
+[Partitioning: how to split data among multiple Redis instances. – Redis](https://redis.io/topics/partitioning)
 </br>
-[Horizontal scaling in/out techniques for redis cluster]()
+[Horizontal scaling in/out techniques for redis cluster](https://medium.com/@iamvishalkhare/horizontal-scaling-in-out-techniques-for-redis-cluster-dcd75c696c86)
 </br>
-[Redis Cluster]()
+[Redis Cluster](https://redis.io/topics/cluster-tutorial)
 </br>
-[Key Problems with Redis Persistence]()
+[Key Problems with Redis Persistence](http://oldblog.antirez.com/post/a-few-key-problems-in-redis-persistence.html#:~:text=The%20problem%20is%20that%20we,memory%20at%20a%20given%20time.)
 
 #### Elasticsearch
 [Elasticsearch from the Top Down]()
